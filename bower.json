@@ -1,0 +1,20 @@
+{
+  "name": "AngularJS Presentation",
+  "version": "0.0.0",
+  "authors": [
+    "ericbichara <eric.bichara@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.3.0",
+    "angular-route": "~1.3.0",
+    "angular-animate": "~1.3.0"
+  }
+}
